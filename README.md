@@ -1,5 +1,7 @@
-Im [Iloveoldman]
 
-![My stats:](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+# My name is [iloveoldman]
 
-![Top langs:](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+## My stats!
+![here:](https://github-readme-stats.vercel.app/api?username=iloveoldman&show_icons=true&theme=tokyonight)
+## Top langs!
+![Here:](https://github-readme-stats.vercel.app/api/top-langs/?username=iloveoldman&layout=compact&theme=tokyonight)
